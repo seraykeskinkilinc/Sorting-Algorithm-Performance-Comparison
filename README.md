@@ -81,5 +81,4 @@ Experiments were run on the following machine:
 
 - **Name**: Seray Keskinkılınç  
 
-- **Course**: CME2204 - Algorithm Analysis  
-- **Semester**: 2024-2025 Spring  
+
